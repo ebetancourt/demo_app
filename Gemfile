@@ -21,6 +21,7 @@ group :assets do
 end
 
 gem 'jquery-rails', '2.0.0'
+gem 'heroku'
 
 group :development do
   gem 'awesome_print'
